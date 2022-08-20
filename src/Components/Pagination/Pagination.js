@@ -34,6 +34,9 @@ let updatedime=()=>{
        .next,.prev{
         display:none;
        }
+       ,pagination{
+        font-size:14;
+       }
     }
     `}
   </style>
