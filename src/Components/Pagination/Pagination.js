@@ -47,6 +47,7 @@ let updatedime=()=>{
   nextClassName={`btn btn-primary ${styles.paginate} next`}
   previousClassName={`btn btn-primary ${styles.paginate} prev`}
   pageClassName="page-item" 
+  marginPagesDisplayed={3}
   pageLinkClassName='page-link'
   activeClassName='active'
   onPageChange={(data)=>{
